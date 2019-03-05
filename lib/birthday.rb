@@ -5,7 +5,8 @@
 # }
 
 def happy_birthday(birthday_kids)
-   
+  birthday_kids.each do |key, value|
+  puts "#{key}: #{value}" 
 end
 
 

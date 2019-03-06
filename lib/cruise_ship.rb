@@ -7,5 +7,5 @@
 # }
 
 def select_winner(passengers)
-  
+  passangers[suite_a:]
 end
